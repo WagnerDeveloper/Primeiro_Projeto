@@ -30,7 +30,8 @@ body * {
 }
 
 #container {
-  width: 360px; /*Altura*/
+  width: 100%; /*Altura*/
+  max-width: 588px;
   margin: 56px auto 0px; /* centraliza e iguala os lados*/
   padding: 0 24px;
 }
