@@ -10,7 +10,7 @@
   --surface-color: rgba(0, 0, 0, 0.05);
   --surface-color-hover: rgba(0, 0, 0, 0.02);
   --highlight-color: rgba(255, 255, 255, 0.2);
-  --switch-bg-url: url(./Assets/moon-stars.svg);
+  --switch-bg-url: url(./Assets/sun.svg);
 }
 .light {
   --text-color: black;
@@ -19,7 +19,7 @@
   --surface-color: rgba(0, 0, 0, 0.05);
   --surface-color-hover: rgba(0, 0, 0, 0.02);
   --highlight-color: rgba(0, 0, 0, 0.1);
-  --switch-bg-url: url(./Assets/sun.svg);
+  --switch-bg-url: url(./Assets/handle.svg);
 }
 body {
   background: var(--bg-url) no-repeat top center/cover;
