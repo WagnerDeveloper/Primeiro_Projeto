@@ -1,27 +1,7 @@
-<svg width="65" height="65" viewBox="0 0 65 65" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g filter="url(#filter0_d_223_220)">
-<rect x="16.1231" y="14.578" width="32" height="32" rx="16" fill="white" shape-rendering="crispEdges"/>
-<path d="M32.1231 34.328C34.1942 34.328 35.8731 32.6491 35.8731 30.578C35.8731 28.5069 34.1942 26.828 32.1231 26.828C30.0521 26.828 28.3731 28.5069 28.3731 30.578C28.3731 32.6491 30.0521 34.328 32.1231 34.328Z" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M32.1231 24.828V23.578" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M28.0544 26.5093L27.1731 25.628" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M26.3731 30.578H25.1231" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M28.0544 34.6468L27.1731 35.528" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M32.1231 36.328V37.578" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M36.1918 34.6468L37.0731 35.528" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M37.8731 30.578H39.1231" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M36.1918 26.5093L37.0731 25.628" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="12.1231" y="10.578" width="40" height="40" rx="20" stroke="black" stroke-opacity="0.1" stroke-width="8" shape-rendering="crispEdges"/>
-</g>
-<defs>
-<filter id="filter0_d_223_220" x="0.123138" y="0.578003" width="64" height="64" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dy="2"/>
-<feGaussianBlur stdDeviation="4"/>
-<feComposite in2="hardAlpha" operator="out"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_223_220"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_223_220" result="shape"/>
-</filter>
-</defs>
+<svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M13.6231 7.578V4.578" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M15.1231 6.078H12.1231" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M10.6231 2.078V4.078" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M11.6231 3.078H9.62314" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M13.6668 10.1155C12.6851 10.3908 11.6479 10.3998 10.6616 10.1417C9.67527 9.88349 8.77545 9.36745 8.05453 8.64653C7.33362 7.92561 6.81758 7.0258 6.55942 6.03949C6.30126 5.05318 6.31028 4.01593 6.58555 3.03426C5.61772 3.30365 4.73735 3.8219 4.03214 4.53741C3.32693 5.25292 2.8215 6.1407 2.56617 7.11234C2.31085 8.08398 2.31455 9.10556 2.57691 10.0753C2.83927 11.0451 3.35113 11.9292 4.06151 12.6396C4.77189 13.3499 5.65599 13.8618 6.62575 14.1242C7.59551 14.3865 8.61709 14.3902 9.58873 14.1349C10.5604 13.8796 11.4482 13.3741 12.1637 12.6689C12.8792 11.9637 13.3974 11.0833 13.6668 10.1155Z" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
